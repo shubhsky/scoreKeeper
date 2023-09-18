@@ -3,6 +3,7 @@ let wicket = 0
 let ballWiseRes = []
 let hit = 0
 let inputRef = React.createRef();
+let name = 'Shubham'
 
 function clickOne(){
     if (wicket<10){
